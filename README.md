@@ -4,20 +4,19 @@
 
 ## 宏观经济学
 
-[书籍笔记](macrobook/README)
+尚未记录
 
-[日常新闻与记录](macro/README)
 
-## python
-[python书籍笔记](pythonbook/README)
-
-[日常记录](pythondocs/)
 
 ## 记录生活
-[生活笔记](life/README)
+尚未记录
+
+
 
 ## 电子书资源
 [电子书](dianzishu/README)
+
+
 
 ## 交流方式
 
