@@ -88,6 +88,11 @@
 
 ## 经济学
 
+- 中国主要统计指标诠释
+
+链接：https://pan.baidu.com/s/1fZyyKFWyx62ng5AfIBN_PA 
+提取码：rod6
+
 - 正在看伍德里奇《计量经济学导论现代观点（第5版》
 
 链接：https://pan.baidu.com/s/1jvlLFAX6CHFq9UJX9sXKyw 
