@@ -8,4 +8,4 @@
 
 
 [github](https://github.com/fanzhuanjun/fanzhuanjun.github.io)
-[Getting Started](#README)
+[Getting Started](#main)
