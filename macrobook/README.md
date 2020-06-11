@@ -1,3 +1,0 @@
-# macro
-
-> An awesome project.
