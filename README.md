@@ -8,7 +8,7 @@
 
 > 不定期更新各种电子书资源，一般是最新的版本。
 
-[电子书分享](电子书.md) | [链家网二手房数据](https://github.com/fanzhuanjun/geek/blob/master/pyfile/ershoufang.csv)
+[电子书分享](电子书.md) | [链家网二手房数据](http://myeconomics.cn/geek/pyfile/ershoufang.csv)
 
 
 
